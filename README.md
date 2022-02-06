@@ -27,7 +27,8 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 4. Add your API key, API key secret, access token and access token secret in .env file
-5. Run the file
+5. Customise the username and messatext on line 22 and 24 in allbots.py
+6. Run the file
 ```
 python allbots.py
 ```
