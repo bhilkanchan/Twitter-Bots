@@ -3,7 +3,7 @@ Twitter bots to follow and message users, like tweets and retweet written in pyt
 
 ## Table of Contents
 + [Technologies Used](https://github.com/bhilkanchan/Twitter-Bots/blob/main/README.md#technologies-used)
-+ [Local Setup]()
++ [Local Setup](https://github.com/bhilkanchan/Twitter-Bots/blob/main/README.md#local-setup)
 + [ToDo]()
 
 ## Technologies Used
