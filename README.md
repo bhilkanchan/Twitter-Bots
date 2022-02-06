@@ -24,7 +24,7 @@ venv\Scripts\activate
 ```
 3. Install all dependencies
 ```
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 4. Add your API key, API key secret, access token and access token secret in .env file
 5. Run the file
