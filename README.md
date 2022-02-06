@@ -33,5 +33,5 @@ python allbots.py
 ```
 
 
-## To Do
+## ToDo
 + Add steps and files to deploy the bot file to heroku
