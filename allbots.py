@@ -129,6 +129,7 @@ def retweetbot(querytext):
 
 
 def main():
+    # Geocode of New York is added here, change the geocode to your required place
     followmessage(" ", "40.730610,-73.935242,5mi")
     time.sleep(300)
 
