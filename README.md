@@ -2,7 +2,7 @@
 Twitter bots to follow and message users, like tweets and retweet written in python.
 
 ## Table of Contents
-+ [Technologies Used]()
++ [Technologies Used](https://github.com/bhilkanchan/Twitter-Bots/blob/main/README.md#technologies-used)
 + [Local Setup]()
 + [ToDo]()
 
