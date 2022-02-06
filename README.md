@@ -19,3 +19,6 @@ pip3 install -r requirements.txt
 ```
 python allbots.py
 ```
+
+## To Do
++ Add steps and files to deploy the bot file to heroku
