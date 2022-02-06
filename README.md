@@ -1,6 +1,15 @@
 # Twitter-Bots
 Twitter bots to follow and message users, like tweets and retweet written in python.
 
+## Table of Contents
++ [Technologies Used]()
++ [Local Setup]()
++ [ToDo]()
+
+## Technologies Used
++ Tweepy
++ Python
+
 ## Local setup
 1. Create virtual environment to install libraries
 ```
