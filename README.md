@@ -1,10 +1,12 @@
 # Twitter-Bots
 Twitter bots to follow and message users, like tweets and retweet written in python.
 
+
 ## Table of Contents
 + [Technologies Used](https://github.com/bhilkanchan/Twitter-Bots/blob/main/README.md#technologies-used)
 + [Local Setup](https://github.com/bhilkanchan/Twitter-Bots/blob/main/README.md#local-setup)
-+ [ToDo]()
++ [ToDo](https://github.com/bhilkanchan/Twitter-Bots/blob/main/README.md#to-do)
+
 
 ## Technologies Used
 + Tweepy
@@ -29,6 +31,7 @@ pip3 install -r requirements.txt
 ```
 python allbots.py
 ```
+
 
 ## To Do
 + Add steps and files to deploy the bot file to heroku
